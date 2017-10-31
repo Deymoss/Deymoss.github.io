@@ -1,0 +1,15 @@
+.nav{
+    position: absolute;
+    width: 10%;
+    height: 50px;
+    left: 100px;
+    background-color: rgb(19, 228, 81);
+}
+.nav a{
+    display: block;
+    text-decoration: none;
+}
+.nav a:hover{
+background-color: white;
+color: black;
+}
